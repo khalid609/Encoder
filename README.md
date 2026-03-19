@@ -1,4 +1,4 @@
-# 🔐 Encoder
+# 🔐 XOR-Encoder
  
 A high-performance encoding utility built with C++ using Visual Studio.
  
@@ -6,7 +6,7 @@ A high-performance encoding utility built with C++ using Visual Studio.
  
 ## 📌 Description
  
-**Encoder** is a C++ application designed to encode and process data efficiently. Built with Visual Studio 2022, it supports multiple build configurations including Debug and Release modes for both x86 and x64 platforms.
+**XOR-Encoder** is a C++ application designed to encode and process data efficiently. Built with Visual Studio 2022, it supports multiple build configurations including Debug and Release modes for both x86 and x64 platforms.
  
 ---
  
